@@ -1,4 +1,4 @@
-![Robert Ngabo](https://avatars.githubusercontent.com/u/50039915?v=4)
+<img src='https://avatars.githubusercontent.com/u/50039915?v=4' width='100'>
 
 # Robert Ngabo
 
