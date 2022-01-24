@@ -1,3 +1,12 @@
 # Sanicole35!
-## I'm a backend Developer
-### RWANDA BUILDING PROGRAM
+
+
+## Skills
+
+- Backend Development (PHP Basics)
+- Frontend Development (Html, Css)
+- Mobile (Java, Flutter)
+
+## Acknowledgements
+
+- RWANDA BUILDING PROGRAM
